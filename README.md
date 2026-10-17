@@ -2,9 +2,6 @@
 Undergraduate in Computing and Information Systems at Sabaragamuwa University of Sri Lanka  
 🌱 Currently learning Java, Web Development, and Ballerina 
 
-## 🚀 My Projects
-- 🏨 [Hotel Booking Website](https://github.com/janiduviduranga/HotelBooking)  
-
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
